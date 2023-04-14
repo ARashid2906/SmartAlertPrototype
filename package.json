@@ -1,0 +1,21 @@
+{
+  "name": "alertsmart",
+  "version": "1.0.0",
+  "description": "Proyecto de estadías alertas inteligentes",
+  "main": "app.js",
+  "scripts": {
+    "dev":"nodemon src/js/index.js"
+  },
+  "author": "arashid2606",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.9",
+    "ewelink-api": "^3.1.1",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+      "nodemon":"2.0.22"
+  }
+}

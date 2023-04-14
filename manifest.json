@@ -1,0 +1,14 @@
+{
+    "nombre": "Alerta vecinal",
+    "short_name": "SmartAlert",
+    "description": "Sistema de alerta vecinal",
+    "background_color": "#407BFF",
+    "dir": "ltr",
+    "lang": "es_ES",
+    "display": "independiente",
+    "orientación": "retrato",
+    "start_url": "index.html",
+    "iconos": [
+     
+    ]
+}

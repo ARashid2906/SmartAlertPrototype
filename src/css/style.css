@@ -1,0 +1,111 @@
+body {
+    font-family: "Poppins";
+  }
+  
+  .btn-icon {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  
+  .btn-nav {
+    font-size: 1.5rem;
+  }
+  
+  .btn-floating-pink{
+    background: rgba(255,153,180, 1);
+      color: #fff;
+      -webkit-box-shadow: 0px 8px 20px -6px rgba(255,153,180, 1);
+      box-shadow: 0px 8px 20px -6px rgba(255,153,180, 1);
+      -webkit-transform: translate(0, -3px);
+      transform: translate(0, -3px);
+  }
+  
+  .full-content {
+    height: 100vh;
+  }
+  
+  .full-section {
+    height: 70vh;
+  }
+  
+  .btn-floating-blue{
+    background: rgba(126, 215, 223, 1);
+    color: #fff;
+    -webkit-box-shadow: 0px 8px 20px -6px rgba(126, 215, 223, 1);
+    box-shadow: 0px 8px 20px -6px rgba(126, 215, 223, 1);
+  }
+  
+  .shadow {
+    box-shadow: 0px 4px 15px 0px rgb(0 0 0 / 10%);
+  }
+  
+  .bg-white {
+    background-color: white;
+  }
+  
+  .rounded {
+    border-radius: 20px;
+  }
+  
+  .item:nth-child(4n + 1) .item-icon img {
+    background-color: #f9de6b;
+    border-radius: 5px;
+  }
+  
+  .item:nth-child(4n + 2) .item-icon img {
+    background-color: #f996b6;
+    border-radius: 5px;
+  }
+  
+  .item:nth-child(4n+3) .item-icon img {
+      background-color: #91E78D;
+      border-radius: 5px;
+  }
+  
+  .item:nth-child(4n) .item-icon img {
+    background-color: #3e5797;
+    border-radius: 5px;
+  }
+  
+  .back-rounded-card {
+    background-color: white;
+    border-radius: 50px 50px 0 0;
+    padding: 15px;
+    height: 100%;
+    display: block;
+  }
+  
+  .back-rounded-image {
+    background-color: rgb(63, 232, 238);
+    border-radius: 100%;
+    margin: 50px;
+    height: 35%;
+  }
+  
+  .bg-full {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .content {
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  .hover-color:hover {
+    -webkit-box-shadow: 0px 8px 20px -6px rgba(211, 212, 213, 0.506);
+    box-shadow: 0px 8px 20px -6px rgba(211, 212, 213, 0.506);
+  }
+  
+  .icon-space{
+      width: 30px;
+  }
+  
+  .center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
